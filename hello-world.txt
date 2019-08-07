@@ -2,5 +2,6 @@
 hello
 aloha
 ありがとうございます
+thank you
 こんばんは
 おはようございます
